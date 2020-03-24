@@ -54,6 +54,10 @@ CVE Number | Feature | Keywords | Credit
 [CVE-2019-5755](./v8/CVE-2019-5755.md) | Compiler | OOB | _Jay Bosamiya_
 [CVE-2019-5782](./v8/CVE-2019-5782.md) | Compiler | OOB | _Zhao Qixun [[5]](#qihoo360vulcan)_
 [CVE-2019-5784](./v8/CVE-2019-5784.md) | Optimization | Allocator | _lupin_
+[CVE-2019-5786](./v8/CVE-2019-5786.md) |Blink | FileAPI| Clement Lecigne
+[CVE-2019-5825](./v8/CVE-2019-5825.md) | Compiler | OOB  | Tencent Keen Security Lab |
+[CR938251](./v8/CR938251.md) |Array.concat | Integer overflow |  glazunov |
+[CVE-2020-6418](./v8/CVE-2020-6418.md)| Compiler | OOB | Clement Lecigne |
 
 ## ChakraCore
 
